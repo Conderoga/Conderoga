@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Conderoga
-- 👀 I’m interested in HTML, CSS, Javascript, mysqldatabase, php, docker, kubernettes, online cloud services to start a website.
-- 🌱 I’m currently learning P5, Kali Linux, and CTF tryhackme
+- 👀 I’m interested in HTML, CSS, Javascript, MYSQLdatabase, PHP, Docker, Kubernettes, AI, React, Vue, and Angular.
+- 🌱 I’m currently learning Web Penetration, Online Protection, Fullstack Development
 - 💞️ I’m looking to collaborate on waldo.vision
-- 📫 How to reach me raulx360@gmail.com
+- 📫 How to reach me raulx360@gmail.com or raulgarcia.prof@gmail.com.
