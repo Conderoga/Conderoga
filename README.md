@@ -2,4 +2,4 @@
 - 👀 I’m interested in HTML, CSS, Javascript, MYSQLdatabase, PHP, Docker, Kubernettes, AI, React, Vue, and Angular.
 - 🌱 I’m currently learning Web Penetration, Online Protection, Fullstack Development
 - 💞️ I’m looking to collaborate on waldo.vision
-- 📫 How to reach me raulx360@gmail.com or raulgarcia.prof@gmail.com.
+- 📫 How to reach me raulx360@gmail.com.
